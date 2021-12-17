@@ -1,0 +1,22 @@
+.jumbo {
+  background-image: url("../images/SHELL.PNG");
+  height: 600px;
+  opacity: 100%;
+  font: Roboto;
+}
+
+.body {
+  font-family: "Roboto Black";
+}
+
+.midInfo {
+  border-radius: 10px;
+  padding: 10px;
+  margin: 10px auto;
+}
+
+html,
+body {
+  max-width: 100%;
+  overflow-x: hidden;
+}
